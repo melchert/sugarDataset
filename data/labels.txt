@@ -1,0 +1,9 @@
+1 Sugar Ester S170
+2 Sugar Ester S770
+3 Sugar Ester S1570
+4 Sugar Ester P1570
+5 D-Mannitol
+6 D-Sorbitol
+7 D-Glucose
+8 D-Galactose
+9 D-Fructose
